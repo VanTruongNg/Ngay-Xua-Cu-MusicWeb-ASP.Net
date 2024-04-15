@@ -1,0 +1,58 @@
+﻿<head>
+
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<style>
+		body {
+			background-image: url('https://i.pinimg.com/originals/c5/40/01/c540018ca1c7b93cb1fbc218ea0c73a7.png');
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			background-position: center center;
+		}
+	</style>
+</head>
+<body>
+	<div class="row justify-content-center">
+		<div class="col-5 mt-5">
+			<div class="card login-logout-card">
+				<div class="card-header">
+					<ul class="nav nav-tabs card-header-tabs">
+						<li class="nav-item">
+							<a class="nav-link" href="/Identity/Account/Login">
+								Login
+							</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/Identity/Account/Register">
+								Register
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="card-body">
+					<div class="row justify-content-center">
+						<div class="col-10 my-4">
+							@RenderBody()
+							@RenderSection("scripts", required: false)
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+@section Scripts{
+	@RenderSection("scripts", required: false)
+	<script>
+		$(function()
+		{
+			const currentPage = location.pathname;
+			$('.nav-tabs li a').each(function () {
+				const $this = $(this);
+				if (currentPage.toLowerCase().indexOf($this.attr('href').toLowerCase()) !== -1) {
+					$this.addClass('active');
+				}
+			})
+		})
+	</script>
+} 

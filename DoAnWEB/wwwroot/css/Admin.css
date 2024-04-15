@@ -1,0 +1,34 @@
+﻿
+.content{
+    margin-left: 250px;
+    padding: 20px;
+}
+@media (max-width: 1200px) {
+    .song-cards {
+        gap: 10px;
+    }
+
+    .song-card {
+        width: calc(50% - 10px);
+    }
+}
+
+@media (max-width: 768px) {
+    .song-cards {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    .song-card {
+        width: calc(50% - 10px);
+    }
+}
+
+@media (max-width: 576px) {
+    .song-cards {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+
+    .song-card {
+        width: 100%;
+    }
+}

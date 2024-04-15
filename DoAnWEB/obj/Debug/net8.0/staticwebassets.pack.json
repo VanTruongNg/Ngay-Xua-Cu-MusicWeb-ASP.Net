@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnWEB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnWEB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\fixyou.mp3",
+      "PackagePath": "staticwebassets\\audio\\fixyou.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\test.mp3",
+      "PackagePath": "staticwebassets\\audio\\test.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\y2mate.com - Coldplay  Yellow Official Video.mp3",
+      "PackagePath": "staticwebassets\\audio\\y2mate.com - Coldplay  Yellow Official Video.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\y2mate.com - John Denver  Take Me Home Country Roads Official Audio.mp3",
+      "PackagePath": "staticwebassets\\audio\\y2mate.com - John Denver  Take Me Home Country Roads Official Audio.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\y2mate.com - Josh Turner  Your Man Official Music Video.mp3",
+      "PackagePath": "staticwebassets\\audio\\y2mate.com - Josh Turner  Your Man Official Music Video.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\audio\\y2mate.com - Shayne Ward  No Promises Video.mp3",
+      "PackagePath": "staticwebassets\\audio\\y2mate.com - Shayne Ward  No Promises Video.mp3"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\css\\AccessDenied.css",
+      "PackagePath": "staticwebassets\\css\\AccessDenied.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\css\\Admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\css\\adminlayout.css",
+      "PackagePath": "staticwebassets\\css\\adminlayout.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\1517190261137_640.jpg",
+      "PackagePath": "staticwebassets\\images\\1517190261137_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\1fb02e17289511.562b82aeee4c0.jpg",
+      "PackagePath": "staticwebassets\\images\\1fb02e17289511.562b82aeee4c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\ab67616d00001e022d1df7d98ff966eafb640e81.jpg",
+      "PackagePath": "staticwebassets\\images\\ab67616d00001e022d1df7d98ff966eafb640e81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\artworks-000455117943-h45g8d-t500x500.jpg",
+      "PackagePath": "staticwebassets\\images\\artworks-000455117943-h45g8d-t500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\fix-you-sheet-music.jpg",
+      "PackagePath": "staticwebassets\\images\\fix-you-sheet-music.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\takemoehomecountryroads362.jpg",
+      "PackagePath": "staticwebassets\\images\\takemoehomecountryroads362.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\images\\theliems.jpg",
+      "PackagePath": "staticwebassets\\images\\theliems.jpg"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\js\\SongScript.js",
+      "PackagePath": "staticwebassets\\js\\SongScript.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\wwwroot\\webimages\\spotify.png",
+      "PackagePath": "staticwebassets\\webimages\\spotify.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnWEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoAnWEB.props",
+      "PackagePath": "build\\DoAnWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnWEB.props",
+      "PackagePath": "buildMultiTargeting\\DoAnWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoAnWEB.props",
+      "PackagePath": "buildTransitive\\DoAnWEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

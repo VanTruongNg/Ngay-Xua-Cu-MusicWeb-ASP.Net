@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A680EE-0CCB-477A-9F5A-B8D6DEB90C24}|DoAnWEB\\DoAnWEB.csproj|c:\\users\\truon\\source\\repos\\doanweb\\doanweb\\areas\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A680EE-0CCB-477A-9F5A-B8D6DEB90C24}|DoAnWEB\\DoAnWEB.csproj|solutionrelative:doanweb\\areas\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\Areas\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "DoAnWEB\\Areas\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\DoAnWEB\\DoAnWEB\\Areas\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "DoAnWEB\\Areas\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:39:45.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

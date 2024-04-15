@@ -1,0 +1,87 @@
+﻿
+<head>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+          integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <!--Sidebar-->
+    <header>
+        <div class="sidebar">
+            <div class="logo">
+            </div>
+            <div class="menu-container">
+                <ul class="menu">
+                    <li><a href="@Url.Action("Index", "Home", new {area = "Home"})"><i class="fas fa-home"></i> <strong>Trang chủ</strong></a></li>
+                    <li><a href="@Url.Action("Search", "Songs", new {area = "Songs"})"><i class="fas fa-search"></i><strong> Tìm kiếm</strong> </a></li>
+                </ul>
+            </div>
+            <div class="playlist">
+                <h3>Tài Khoản</h3>
+                <ul>
+                </ul>
+            </div>
+            <partial name="_LoginPartial"/>
+        </div>
+    </header>
+
+    @RenderBody()
+    @RenderSection("scripts", required: false)
+
+    <!--Thanh Player Bottom Navigation-->
+    <footer>
+    <div class="music-player">
+        <div class="song-bar">
+            <div class="song-infos">
+                <div class="image-container">
+                    <img id="songImage" src="~/images/default.jpg"/>
+                </div>
+                <div class="song-description">
+                    <p class="title" id="songTitle"></p>
+                    <p class="artist" id="songArtist"></p>
+                </div>
+            </div>
+            <div class="icons">
+                <i class="far fa-heart"></i>
+                <i class="fas fa-compress"></i>
+            </div>
+        </div>
+        <div class="progress-controller">
+            <div class="control-buttons">
+                <i class="fas fa-random" id="suffleButton"></i>
+                <i class="fas fa-step-backward" id="playPrevButton"></i>
+                <i class="play-pause fas fa-play" id="playPauseButton"></i>
+                <i class="fas fa-step-forward" id="playNextButton"></i>
+                <i class="fas fa-undo-alt" id="loopButton"></i>
+            </div>
+            <div class="progress-container">
+                <span id="currentTime">0:00</span>
+                <div class="progress-bar">
+                    <div class="progress" id="progressBar"></div>
+                </div>
+                <span id="duration">0:00</span>
+            </div>
+        </div>
+        <div class="other-features">
+            <div class="volume-bar">
+                    <input type="range" min="0" max="1" step="0.01" value="1" class="volume-slider" id="volumeSlider">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="audioPlayer" controls style="display: none;">
+        <source id="audioSource" src="" type="audio/mpeg">
+    </audio>
+    </footer>
+
+    <script src="~/js/SongScript.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</body>
+</html>
+

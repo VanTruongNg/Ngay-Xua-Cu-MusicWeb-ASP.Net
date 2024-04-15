@@ -1,0 +1,39 @@
+﻿@model IEnumerable<DoAnWEB.Models.Song>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_Layout";
+}
+
+
+<link rel="stylesheet" href="~/css/style.css" />
+<link rel="stylesheet" href="~/css/Admin.css" />
+<h2>Tìm kiếm</h2>
+
+<div class="content">
+
+    <form asp-controller="Songs" asp-action="Search" method="get">
+        <input type="text" name="query" placeholder="Tìm kiếm bài hát/nghệ sĩ...">
+        <button type="submit">Tìm kiếm</button>
+    </form>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="song-cards">
+            @foreach (var song in Model)
+            {
+                <div class="col-sm-6 col-md-4 col-lg-3 song-card" onclick="playSong('@song.mp3FilePath', '@song.Name', '@song.Artist', '@song.imgFilePath')">
+                    <div class="song-image" style="background-image: url('@song.imgFilePath')"></div>
+                    <div class="song-details" data-mp3="@song.mp3FilePath" data-name="@song.Name" data-artist="@song.Artist" data-img="@song.imgFilePath">
+                        <h3 class="song-title">@song.Name</h3>
+                        <p class="song-artist">@song.Artist</p>
+                        <p class="song-genre">@song.Genre.GenreName</p>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p>Không tìm thấy kết quả phù hợp.</p>
+    }
+</div>
